@@ -5,7 +5,7 @@ project: sdp
 target: sdp-sdp-fuzz
 
 # Base image to run the binary in.
-image: ghcr.io/lotdeef/sdp:latest
+# image: ghcr.io/lotdeef/sdp:latest
 
 # List of commands used to test the target
 cmds:
