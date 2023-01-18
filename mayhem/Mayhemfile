@@ -1,0 +1,4 @@
+project: sdp
+target: sdp-sdp-fuzz
+cmds:
+  - cmd: ./sdpparser-fuzz.libfuzzer
